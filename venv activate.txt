@@ -1,0 +1,1 @@
+source qr-env/bin/activate
